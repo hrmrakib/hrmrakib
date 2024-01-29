@@ -11,11 +11,5 @@ Skills: HTML | CSS | JavaScript | ReactJS | NextJS | Firebase | TailwindCSS | Gi
 - ⚡ Fun fact: console.log("Hello World!") 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hrmrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hrmrakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hrmrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/hrmrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hmrakib.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrmrakib)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hrmrakib&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hrmrakib/contributions?format=svg&private=false)  
 
