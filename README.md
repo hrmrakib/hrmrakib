@@ -10,6 +10,5 @@ Skills: HTML | CSS | JavaScript | ReactJS | NextJS | Firebase | TailwindCSS | Gi
 - 💬 Ask me about : Web Development 
 - ⚡ Fun fact: console.log("Hello World!") 
 
-<button>Facebook</button>
-
-
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
