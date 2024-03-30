@@ -3,7 +3,7 @@
 
 Frontend Developer (ReactJS)
 
-Skills: HTML | CSS | JavaScript | ReactJS | NextJS | Firebase | TailwindCSS | Git | GitHub
+Skills: HTML | CSS | JavaScript | ReactJS | NextJS | Firebase | TailwindCSS | Git | GitHub (Basic: NodeJS, ExpressJS, MongoDB)
 
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on : Frontend Development 
