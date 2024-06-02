@@ -1,5 +1,4 @@
 # Hi there 👋, my name is Rakibul!
-![My Profile](https://i.ibb.co/mbZf14j/cover.png)
 
 ## Frontend Developer (React)
 
