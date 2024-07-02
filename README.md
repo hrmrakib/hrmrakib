@@ -22,28 +22,28 @@
 
 <br>
 <p align="center">
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
 
 
 </p>
 
 <p align="center">
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/typescript.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/tailwind.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
-<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/typescript.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/tailwind.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
 </p>
 
 <p align="center">
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png" "Expressjs"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png" "Expressjs"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
+<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
 
 </p>
 
