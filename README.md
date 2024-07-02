@@ -53,24 +53,20 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
 </div>
 
-### 🔭 I’m a Web Developer. 
-### 🌱 I’m exploring - Advance motion Nextjs and TypeScript for web. 
+### 🔭 I’m a Web Developer. Passionate Software Engineer.
+### 🌱 I’m exploring - Advance Nextjs and TypeScript for the web. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🤔 I’m trying - To learn full-stack web development. 
+### 💬 Ask me about: Web Development.
+### ⚡ Fun fact - console.log("Hello World!")
 
 
 <br />
 
 
-
-
-
-Skills: HTML | CSS | JavaScript | ReactJS | NextJS | Firebase | TailwindCSS | Git | GitHub (Basic: NodeJS, ExpressJS, MongoDB)
-
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on: Frontend Development 
-- 💬 Ask me about: Web Development 
+- 💬 Ask me about Web Development 
 - ⚡ Fun fact: console.log("Hello World!") 
 
 > [!NOTE]
