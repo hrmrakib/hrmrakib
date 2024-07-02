@@ -1,12 +1,5 @@
-# Hi there 👋, My name is Rakibul!
-
-## Frontend Developer (React)
-
-
-
-
 <a href="https://www.hmrakib.com/">
-<img src="https://i.ibb.co/SshG4yc/bg-cover.png" />
+<img src="https://i.ibb.co/yPQ5yB8/github-cover.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
