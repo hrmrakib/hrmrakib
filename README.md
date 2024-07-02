@@ -5,6 +5,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
+
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrmrakib&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
@@ -13,7 +14,7 @@
 
 <br />
 
-<p align="center"> [<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="100" width="100" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/internet.png"> </p>](https://hmrakib.com)
+[<p align="center"> [<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="100" width="100" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/internet.png">](https://hmrakib.com) </p>]
 
 <br />
 
