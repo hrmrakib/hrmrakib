@@ -22,8 +22,8 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
 <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
 <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
 <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
