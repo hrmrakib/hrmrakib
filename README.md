@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"> [<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="100" width="100" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/internet.png"> </p>](https://hmrakib.com)
+<p align="center"> [<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="auto" width="200" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="100" width="100" style="border-radius:50%" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/internet.png"> </p>](https://hmrakib.com)
 
 <br />
 
