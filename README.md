@@ -5,8 +5,8 @@
 
 
 
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<a href="https://www.hmrakib.com/">
+<img src="https://i.ibb.co/VLdtdK6/programming-background-collage.jpg" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
