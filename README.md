@@ -33,13 +33,13 @@
   
 </p>
 <p align="center">
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png" "Expressjs"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
-<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png" "Expressjs"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
+<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
 
 </p>
 
