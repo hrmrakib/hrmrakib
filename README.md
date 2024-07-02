@@ -6,7 +6,7 @@
 
 
 <a href="https://www.hmrakib.com/">
-<img src="https://i.ibb.co/jyP9wLz/programming-background-collage.jpg" />
+<img src="https://i.ibb.co/SshG4yc/bg-cover.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
