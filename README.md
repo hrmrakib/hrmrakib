@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"> <a href='https://binarytree.dev/' target='_blank'> <img src='https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png' /> </a> </p>](https://hmrakib.com)
+[<p align="center"> <a href='https://binarytree.dev/' target='_blank'><img src="https://i.ibb.co/zrstSW0/linkedin.jpg" alt="Linkedin" style="border-radius: 50%; width: 150px; height: 150px;"/> </a> </p>](https://hmrakib.com)
 
 <br />
 
