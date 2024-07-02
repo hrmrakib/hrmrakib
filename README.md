@@ -21,9 +21,14 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/typescript.png"/>
+<img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/tailwind.png"/>
+
   
 </p>
 <p align="center">
