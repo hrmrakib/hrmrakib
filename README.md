@@ -14,7 +14,7 @@
 
 <br />
 
-[<p align="center" style="display:flex; align-items:center; justify-content:space-between;"><img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png"> </p>](https://www.hmrakib.com)
+[<p align="center" style="display:flex; align-items:center; justify-content:space-between;"><img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png"> </p>](https://www.hmrakib.com)
 
 <br />
 
