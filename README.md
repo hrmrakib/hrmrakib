@@ -57,8 +57,8 @@
 ### 🔭 I’m a Web Developer. In Future Software Engineer.
 ### 🌱 I’m exploring - Advance Nextjs and TypeScript for the web. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
-### 🤔 I’m trying - To learn full-stack web development. 
-### 💬 Ask me about: Web Development.
+### 🤔 I’m trying - To deeply learn full-stack web development. 
+### 💬 Ask me about Web Development.
 ### ⚡ Fun fact - console.log("Hello World!")
 
 <br />
