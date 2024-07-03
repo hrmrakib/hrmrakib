@@ -14,7 +14,7 @@
 
 <br />
 
-[<p align="center" style="flex items-center justify-between"><img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png"> </p>](https://www.hmrakib.com)
+[<p align="center" style="display:flex; align-items: center; justify-content:space-between;"><img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png"> </p>](https://www.hmrakib.com)
 
 <br />
 
@@ -22,29 +22,29 @@
 
 <br>
 <p align="center">
-<img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
-<img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
-<img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
-<img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
-<img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
+<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
+<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
+<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
+<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
+<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
 
 
 </p>
 
 <p align="center">
-<img height="53" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/typescript.png"/>
-<img height="53" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/tailwind.png"/>
-<img height="53" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
-<img height="53" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
-<img height="53" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
+<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/typescript.png"/>
+<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/tailwind.png"/>
+<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
+<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
+<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
 </p>
 
 <p align="center">
-<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/firebase.webp"/>
-<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
-<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png" "Expressjs"/>
-<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
-<img height="50" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
+<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/firebase.webp"/>
+<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
+<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png" "Expressjs"/>
+<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
+<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
 
 </p>
 
@@ -61,14 +61,7 @@
 ### 💬 Ask me about: Web Development.
 ### ⚡ Fun fact - console.log("Hello World!")
 
-
 <br />
-
-
-- 🌱 I’m currently learning NextJS 
-- 👯 I’m looking to collaborate on: Frontend Development 
-- 💬 Ask me about Web Development 
-- ⚡ Fun fact: console.log("Hello World!") 
 
 > [!NOTE]
 > All Project: Live & Code Link => https://hmrakib.com
