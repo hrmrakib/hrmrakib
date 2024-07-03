@@ -21,7 +21,7 @@
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
+<p align="center" style="display:flex; align-items:center; justify-content:space-between; gap:10">
 <img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
 <img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
 <img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
