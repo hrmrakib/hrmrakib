@@ -18,6 +18,19 @@
 
 [<p align="center" style="display:flex; align-items:center; justify-content:space-between;"><img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png"> </p>](https://www.hmrakib.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrmrakib">
+    <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/hrmrakib">
+    <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png" alt="Facebook">
+  </a>
+  <a href="https://www.hmrakib.com">
+    <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png" alt="Website">
+  </a>
+</p>
+
+
 <br />
 
 ## :computer: Technologies that I know
