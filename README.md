@@ -54,7 +54,7 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m a Web Developer. Passionate Software Engineer.
+### 🔭 I’m a Web Developer. In Future Software Engineer.
 ### 🌱 I’m exploring - Advance Nextjs and TypeScript for the web. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To learn full-stack web development. 
