@@ -14,10 +14,6 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
-
-[<p align="center" style="display:flex; align-items:center; justify-content:space-between;"><img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png">](https://www.linkedin.com/in/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png">](https://www.facebook.com/hrmrakib)[<img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png"> </p>](https://www.hmrakib.com)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hrmrakib">
     <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png" alt="LinkedIn">
