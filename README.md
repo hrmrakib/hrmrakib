@@ -1,5 +1,5 @@
 <a href="https://www.hmrakib.com/">
-<img src="https://i.ibb.co/QvFnfXT/github-cover.png" />
+  <img src="https://i.ibb.co/QvFnfXT/github-cover.png" alt="devloper"/>
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
