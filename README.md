@@ -1,6 +1,6 @@
 <a href="https://www.hmrakib.com/">
   
-  <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/github-cover.png" alt="devloper"/>
+  <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web-developer.png" alt="devloper"/>
   
 </a>
 
