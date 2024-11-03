@@ -23,7 +23,7 @@
   <a href="https://www.facebook.com/hrmrakib">
     <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png" alt="Facebook">
   </a>
-  <a href="https://www.hmrakib.com">
+  <a href="https://hrmrakib.vercel.app">
     <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png" alt="Website">
   </a>
 </p>
