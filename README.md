@@ -1,4 +1,4 @@
-<a href="https://hrmrakib.vercel.app" target="_blank"> 
+<a href="https://hrmrakib.vercel.app" target="_blank">
   
   <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web_developer.png" alt="devloper"/>
    
