@@ -67,10 +67,11 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m a Web Developer. In Future Software Engineer.
-### 🌱 I’m exploring - Advance Nextjs and TypeScript for the web. 
+### 🔭 I’m a Jr. Web Developer. In Future: Software Engineer.
+### 🌱 I’m focusing ON - (C, C++) Data Structure and Algorithm + Problem Solving. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
-### 🤔 I’m trying - To deeply learn full-stack web development. 
+### 🤔 I’m trying - To learn full-stack web development deeply. 
+### 🤔 I’m interested - AI (Machine Learning). 
 ### 💬 Ask me about Web Development.
 ### ⚡ Fun fact - console.log("Hello World!")
 
