@@ -31,6 +31,13 @@
 
 <br />
 
+
+<h2>Languages I Use</h2>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=hrmrakib](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 ## :computer: Technologies that I know
 
 <br>
