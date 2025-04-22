@@ -88,3 +88,69 @@
 
 > [!NOTE]
 > All Project: Live & Code Link => https://hmrakib.com
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+
+
+
+<!-- GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Rakib</h1>
+<h3 align="center">A Passionate Full Stack Developer with a Frontend Focus</h3>
+
+<p align="center">
+  <a href="https://github.com/hrmrakib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Frontend+Focused;Lover+of+Clean+Code+%26+UI" alt="Typing SVG" /></a>
+</p>
+
+---
+
+### 🔧 Tech Stack
+
+- 💻 **Languages**: JavaScript, TypeScript, Python, C++
+- 🌐 **Frontend**: React, Next.js, Tailwind CSS, Redux, HTML5, CSS3
+- 🛠 **Backend**: Node.js, Express.js, MongoDB, Firebase
+- ⚙️ **Tools**: Git, GitHub, Vercel, Postman, VS Code, Webpack
+- 🧪 **Testing**: Jest, React Testing Library
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrmrakib&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrmrakib&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hrmrakib&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hrmrakib/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
+  <a href="mailto:rakib.hr.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
+  <a href="https://hrmrakib.github.io/portfolio/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" /></a>
+</p>
+
+---
+
+### ✍️ Quote of the Day
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+*Thanks for stopping by! Don't forget to ⭐ some repos and follow me if you like my work 😊*
+
