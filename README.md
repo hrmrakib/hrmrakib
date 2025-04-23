@@ -25,28 +25,6 @@
 
 ---
 
-## 🧠 Technologies I Work With
-
-<p align="center">
-<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/html.png"/>
-<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/css.png"/>
-<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/javascript.png"/>
-<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/reactjs.png"/>
-<img height="65" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nextjs.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/typescript.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/tailwind.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/redux.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/figma.png"/>
-<img height="55" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/git.png"/>
-<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/firebase.webp"/>
-<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/nodejs.png"/>
-<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/express.png"/>
-<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongodb.png"/>
-<img height="45" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/tech/mongoose.png"/>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 ### 🚀 Contribution Streak
@@ -97,7 +75,7 @@
 
 <br />
 
-## :computer: Technologies that I know
+## :computer: Technologies I Work With
 
 <br>
 <p align="center" style="display:flex; align-items:center; justify-content:space-between; gap:60">
