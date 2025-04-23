@@ -92,32 +92,8 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
----
-
-⭐ *Thanks for visiting my profile! If you like my work, consider giving a star and follow – it means a lot 🙌*
-
-
-
 
 -----------------------------------------------------------------------------------------
-
-
-## :mailbox: Reach me out
-
-<br />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hrmrakib">
-    <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/hrmrakib">
-    <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png" alt="Facebook">
-  </a>
-  <a href="https://hrmrakib.vercel.app">
-    <img height="75" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png" alt="Website">
-  </a>
-</p>
-
 
 <br />
 
@@ -242,5 +218,5 @@
 
 ---
 
-*Thanks for stopping by! Don't forget to ⭐ some repos and follow me if you like my work 😊*
+⭐ *Thanks for visiting my profile! If you like my work, consider giving a star and follow – it means a lot 🙌*
 
