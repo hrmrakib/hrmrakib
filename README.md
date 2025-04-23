@@ -5,16 +5,17 @@
   <a href="https://github.com/hrmrakib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Focused;Clean+UI+Lover;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" /></a>
 </p>
 
+
+
 ---
 
-## 👁️ Overview
+### 🔧 Tech Stack
 
-- 🔭 I’m a Jr. Web Developer → Aspiring Software Engineer.
-- 🌱 Currently focusing on **C/C++**, Data Structures & Algorithms, and Problem Solving.
-- 👯 I’m open to collaborating on open-source & full-stack projects.
-- 🤖 Deeply interested in **AI/ML**.
-- 💬 Ask me anything about Web Development.
-- ⚡ Fun Fact: `console.log("Hello World!");`
+- 💻 **Languages**: JavaScript, TypeScript, Python, C++
+- 🌐 **Frontend**: React, Next.js, Tailwind CSS, Redux, HTML5, CSS3
+- 🛠 **Backend**: Node.js, Express.js, MongoDB, Firebase
+- ⚙️ **Tools**: Git, GitHub, Vercel, Postman, VS Code, Webpack
+- 🧪 **Testing**: Jest, React Testing Library
 
 ---
 
@@ -109,59 +110,24 @@
 
 </p><br/>
 
-## :eyes: Current overview
-
-### 🔭 I’m a Jr. Web Developer. In Future: Software Engineer.
-### 🌱 I’m focusing ON - (C, C++) Data Structure and Algorithm + Problem Solving. 
-### 👯 I’m looking - To collaborate on open-source projects. 
-### 🤔 I’m trying - To learn full-stack web development deeply. 
-### 🤔 I’m interested - AI (Machine Learning). 
-### 💬 Ask me about Web Development.
-### ⚡ Fun fact - console.log("Hello World!")
-
 <br />
 
 > [!NOTE]
 > All Project: Live & Code Link => https://hmrakib.com
 
 
-
-
-
-
 ----------------------------------------------------------------------------------
 
-
-
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">A Passionate Full Stack Developer with a Frontend Focus</h3>
-
-<p align="center">
-  <a href="https://github.com/hrmrakib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Frontend+Focused;Lover+of+Clean+Code+%26+UI" alt="Typing SVG" /></a>
-</p>
-
 ---
 
-### 🔧 Tech Stack
+## 👁️ Overview
 
-- 💻 **Languages**: JavaScript, TypeScript, Python, C++
-- 🌐 **Frontend**: React, Next.js, Tailwind CSS, Redux, HTML5, CSS3
-- 🛠 **Backend**: Node.js, Express.js, MongoDB, Firebase
-- ⚙️ **Tools**: Git, GitHub, Vercel, Postman, VS Code, Webpack
-- 🧪 **Testing**: Jest, React Testing Library
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrmrakib&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrmrakib&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
+- 🔭 I’m a Jr. Web Developer → Aspiring Software Engineer.
+- 🌱 Currently focusing on **C/C++**, Data Structures & Algorithms, and Problem Solving.
+- 👯 I’m open to collaborating on open-source & full-stack projects.
+- 🤖 Deeply interested in **AI/ML**.
+- 💬 Ask me anything about Web Development.
+- ⚡ Fun Fact: `console.log("Hello World!");`
 
 
 ### ✍️ Quote of the Day
