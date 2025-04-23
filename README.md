@@ -108,21 +108,6 @@
 -----------------------------------------------------------------------------------------
 
 
-
-<a href="https://hrmrakib.vercel.app" target="_blank"> 
-  
-  <img src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web_developer.png" alt="devloper"/>
-   
-</a> 
-   
-    
-## :chart_with_upwards_trend: Current Stats
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hrmrakib&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak Stats" />
-</p>
-
-
 ## :mailbox: Reach me out
 
 <br />
