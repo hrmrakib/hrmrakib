@@ -163,23 +163,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrmrakib&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-### 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hrmrakib/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="mailto:rakib.hr.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
-  <a href="https://hrmrakib.github.io/portfolio/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" /></a>
-</p>
-
----
 
 ### ✍️ Quote of the Day
 
