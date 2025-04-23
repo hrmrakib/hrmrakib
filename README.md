@@ -11,9 +11,9 @@
 
 ### 🔧 Tech Stack
 
-- 💻 **Languages**: JavaScript, TypeScript, Python, C++
+- 💻 **Languages**: JavaScript, TypeScript, Python, C, C++
 - 🌐 **Frontend**: React, Next.js, Tailwind CSS, Redux, HTML5, CSS3
-- 🛠 **Backend**: Node.js, Express.js, MongoDB, Firebase
+- 🛠 **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Firebase
 - ⚙️ **Tools**: Git, GitHub, Vercel, Postman, VS Code, Webpack
 - 🧪 **Testing**: Jest, React Testing Library
 
