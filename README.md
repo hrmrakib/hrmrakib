@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer with a Frontend Focus</h3>
 
 <p align="center">
-  <a href="https://github.com/hrmrakib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Focused;Problem+Solving;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" /></a>
+  <a href="https://github.com/hrmrakib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Focused;Problem+Solver;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" /></a>
 </p>
 
 
