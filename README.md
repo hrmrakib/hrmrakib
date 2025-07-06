@@ -56,13 +56,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrmrakib">
-    <img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png" alt="LinkedIn">
+    <img width="60" height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464412.png" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/hrmrakib">
-    <img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png" alt="Facebook">
+    <img width="60" height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/10464408.png" alt="Facebook">
   </a>
   <a href="https://hrmrakib.vercel.app">
-    <img height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png" alt="Website">
+    <img width="60" height="60" src="https://github.com/hrmrakib/hrmrakib/blob/main/images/web.png" alt="Website">
   </a>
 </p>
 
