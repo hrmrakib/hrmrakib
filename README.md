@@ -117,7 +117,7 @@
 ## 👁️ Overview
 
 - 🔭 I’m a Jr. Web Developer → Aspiring Software Engineer.
-- 🌱 Currently focusing on **C/C++**, Data Structures & Algorithms, and Problem Solving.
+- 🌱 Currently focusing on Data Structures & Algorithms, and Problem Solving.
 - 👯 I’m open to collaborating on open-source & full-stack projects.
 - 🤖 Deeply interested in **AI/ML**.
 - 💬 Ask me anything about Web Development.
